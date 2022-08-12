@@ -1,4 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
+Creates ECR repository to store container images created by GitHub actions
 ## Requirements
 
 | Name | Version |
